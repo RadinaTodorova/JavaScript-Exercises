@@ -1,4 +1,4 @@
-function solve (peopleCount, typeOfGroup, dayOfWeek) {
+function vacation (peopleCount, typeOfGroup, dayOfWeek) {
 let price = 0;
 let allPrice = 0;
 
@@ -49,7 +49,7 @@ switch (typeOfGroup) {
 console.log(`Total price: ${allPrice.toFixed(2)}`)
 
 }
-solve(40,
+vacation(40,
     "Regular",
     "Saturday"
     );

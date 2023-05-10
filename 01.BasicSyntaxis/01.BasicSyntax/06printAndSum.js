@@ -1,4 +1,4 @@
-function solve(startNum, endNum) {
+function printAndSum(startNum, endNum) {
 let sum = 0;
 let num = '';
 for (let i = startNum; i<= endNum; i++) {
@@ -8,4 +8,4 @@ for (let i = startNum; i<= endNum; i++) {
 console.log(num);
 console.log(`Sum: ${sum}`)
 }
-solve(5,10);
+printAndSum(5,10);

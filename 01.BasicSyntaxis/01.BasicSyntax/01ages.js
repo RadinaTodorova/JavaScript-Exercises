@@ -1,4 +1,4 @@
-function solve(age) {
+function ages(age) {
 if (age >= 0 && age <= 2) {
     console.log('baby');
 } else if (age >= 3 && age <= 13) {
@@ -13,4 +13,4 @@ if (age >= 0 && age <= 2) {
     console.log('out of bounds')
 }
 }
-solve(2)
+ages(2);

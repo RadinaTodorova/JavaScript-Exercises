@@ -1,4 +1,4 @@
-function solve() {
+function distanceBetweenPoints() {
 
 }
-solve();
+sdistanceBetweenPoints();

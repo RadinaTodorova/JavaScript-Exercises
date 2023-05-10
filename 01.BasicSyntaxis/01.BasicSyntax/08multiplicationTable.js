@@ -1,8 +1,8 @@
-function solve(number) {
+function multiplicationTable(number) {
 
 
     for (let i = 1; i <= 10; ++i)
         console.log(number + "X" + i +
             " = " + number * i);
 }
-solve(5);
+multiplicationTable(5);

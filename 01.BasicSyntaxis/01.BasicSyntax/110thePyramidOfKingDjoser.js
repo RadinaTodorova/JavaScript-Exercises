@@ -1,4 +1,4 @@
-function solve() {
+function thePyramidOfKingDjoser() {
 
 }
-solve();
+thePyramidOfKingDjoser();

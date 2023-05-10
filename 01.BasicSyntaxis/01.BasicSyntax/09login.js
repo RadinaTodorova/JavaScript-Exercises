@@ -1,4 +1,4 @@
-function solve(input) {
+function login(input) {
 let userName = input[0];
 
 let correctPassword = [...userName].reverse().join('');
@@ -20,4 +20,4 @@ for(let i = 1; i <= input.length; i++) {
     }
 }
 }
-solve(['sunny','rainy','cloudy','sunny','not sunny']);
+login(['sunny','rainy','cloudy','sunny','not sunny']);

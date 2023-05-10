@@ -1,4 +1,4 @@
-function solve(country) {
+function foreignLanguages(country) {
 switch(country) {
     case 'USA': 
     case 'England':console.log('English');  break;
@@ -12,4 +12,4 @@ case 'Spain':
 
 }
 
-solve('USA');
+foreignLanguages('USA');

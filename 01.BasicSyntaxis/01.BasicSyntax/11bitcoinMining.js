@@ -1,4 +1,4 @@
-function solve(gold) {
+function bitcoinMining(gold) {
   let totalMoney = 0;
   const bitcoinPrice = 11949.16;
   let dayBoughtFirstBitcoin = 0;
@@ -32,4 +32,4 @@ function solve(gold) {
   console.log(`Left money: ${totalMoney.toFixed(2)} lv.`);
 }
 
-solve([176.999]);
+bitcoinMining([176.999]);

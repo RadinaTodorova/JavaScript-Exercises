@@ -1,4 +1,4 @@
-function solve(n) {
+function sumOfOddNumbers(n) {
 let oddNumber = 1;
 let num = 1;
 let sumNumbers = 0;
@@ -13,4 +13,4 @@ if (num % 2 === 1) {
     }
 console.log(`Sum: ${sumNumbers}`);
 }
-solve(5);
+sumOfOddNumbers(5);

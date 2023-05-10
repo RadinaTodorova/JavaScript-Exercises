@@ -1,4 +1,4 @@
-function solve(givenNumber){
+function division(givenNumber){
     if (givenNumber % 10 === 0) {
         console.log(`The number is divisible by 10`)
     } else if (givenNumber % 7 === 0) {
@@ -14,5 +14,5 @@ function solve(givenNumber){
     }
 
 }
-solve(15);
+division(15);
 

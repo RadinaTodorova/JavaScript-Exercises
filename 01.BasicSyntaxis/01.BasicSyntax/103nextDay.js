@@ -1,4 +1,4 @@
-function solve() {
+function nextDay() {
 
 }
-solve();
+nextDay();

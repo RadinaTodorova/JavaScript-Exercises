@@ -1,8 +1,8 @@
-function solve(num) {
+function numbersFromNToOne(num) {
 while(num >= 1) {
     console.log(num);
     num--;
 }
 
 }
-solve(5);
+numbersFromNToOne(5);

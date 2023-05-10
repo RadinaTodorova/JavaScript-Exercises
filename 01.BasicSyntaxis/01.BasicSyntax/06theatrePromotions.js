@@ -1,4 +1,4 @@
-function solve(day, age) {
+function theatrePromotions(day, age) {
     pricePerTicket = 0;
 if (age >= 0 && age <= 18) {
     if (day == 'Weekday') {
@@ -35,6 +35,6 @@ pricePerTicket = 12;
 
 }
 
-solve('Weekday', 42);
-solve('Holiday', -12);
-solve('Holiday', 15);
+theatrePromotions('Weekday', 42);
+theatrePromotions('Holiday', -12);
+theatrePromotions('Holiday', 15);
