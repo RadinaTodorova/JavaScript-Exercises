@@ -1,7 +1,4 @@
 function concatenateNames(nameOne, nameTwo, delimiter) {
-console.log(`${nameOne}${delimiter}${nameTwo}`);
+  console.log(`${nameOne}${delimiter}${nameTwo}`);
 }
-concatenateNames('John',
-'Smith',
-'->'
-);
+concatenateNames("John", "Smith", "->");

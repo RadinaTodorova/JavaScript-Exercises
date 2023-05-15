@@ -1,0 +1,4 @@
+function softUniReception() {
+
+}
+softUniReception();

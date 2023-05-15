@@ -5,10 +5,8 @@ function addAndSubstract(arr) {
   for (let i = 0; i < arr.length; i++) {
     sumOldArray += arr[i];
     if (arr[i] % 2 === 0) {
-      
       arr[i] += i;
     } else {
-      
       arr[i] -= i;
     }
 

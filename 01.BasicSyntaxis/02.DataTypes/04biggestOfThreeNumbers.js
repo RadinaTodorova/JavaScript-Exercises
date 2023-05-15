@@ -1,12 +1,9 @@
 function biggestOfThreeNumbers(numberOne, numberTwo, numberThree) {
-    let numOne = parseInt(numberOne);
-    let numTwo = parseInt(numberTwo);
-    let numThree = parseInt(numberThree);
-let maxNumber = Math.max(numOne, numTwo, numThree);
+  let numOne = parseInt(numberOne);
+  let numTwo = parseInt(numberTwo);
+  let numThree = parseInt(numberThree);
+  let maxNumber = Math.max(numOne, numTwo, numThree);
 
-console.log(maxNumber);
+  console.log(maxNumber);
 }
-biggestOfThreeNumbers(-2,
-    7,
-    3
-    );
+biggestOfThreeNumbers(-2, 7, 3);

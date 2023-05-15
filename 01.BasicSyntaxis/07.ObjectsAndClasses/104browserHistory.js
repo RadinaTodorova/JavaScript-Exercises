@@ -1,0 +1,4 @@
+function browserHistory() {
+
+}
+browserHistory();

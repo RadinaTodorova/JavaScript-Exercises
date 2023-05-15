@@ -1,4 +1,0 @@
-function maxSequenceOfEqualElements() {
-
-}
-maxSequenceOfEqualElements();

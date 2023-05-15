@@ -1,0 +1,4 @@
+function flightSchedule() {
+
+}
+flightSchedule();

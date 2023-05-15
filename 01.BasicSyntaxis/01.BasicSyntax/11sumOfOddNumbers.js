@@ -1,16 +1,16 @@
 function sumOfOddNumbers(n) {
-let oddNumber = 1;
-let num = 1;
-let sumNumbers = 0;
+  let oddNumber = 1;
+  let num = 1;
+  let sumNumbers = 0;
 
-    while(oddNumber <= n) {
-if (num % 2 === 1) {
-    console.log(num);
-    oddNumber++;
-    sumNumbers += num;
-}
-       num++; 
+  while (oddNumber <= n) {
+    if (num % 2 === 1) {
+      console.log(num);
+      oddNumber++;
+      sumNumbers += num;
     }
-console.log(`Sum: ${sumNumbers}`);
+    num++;
+  }
+  console.log(`Sum: ${sumNumbers}`);
 }
 sumOfOddNumbers(5);
