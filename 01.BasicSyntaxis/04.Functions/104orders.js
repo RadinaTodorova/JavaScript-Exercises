@@ -1,4 +1,0 @@
-function orders() {
-
-}
-orders();

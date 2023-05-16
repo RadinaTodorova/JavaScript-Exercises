@@ -1,4 +1,0 @@
-function repeatString() {
-
-}
-repeatString();

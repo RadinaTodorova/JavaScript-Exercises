@@ -24,11 +24,11 @@ function equalSum(arr) {
     }
   }
   if (!isFound) {
-  if (arr.length === 1) {
-    console.log("0");
-  } else {
-    console.log("no");
+    if (arr.length === 1) {
+      console.log("0");
+    } else {
+      console.log("no");
+    }
   }
-}
 }
 equalSum([1]);

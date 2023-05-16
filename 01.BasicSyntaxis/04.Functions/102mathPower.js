@@ -1,4 +1,0 @@
-function mathPower() {
-
-}
-mathPower();
