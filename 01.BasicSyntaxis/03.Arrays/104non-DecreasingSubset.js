@@ -1,4 +1,0 @@
-function nonDecreasingSubset() {
-
-}
-nonDecreasingSubset();

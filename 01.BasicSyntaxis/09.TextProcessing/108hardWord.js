@@ -1,0 +1,4 @@
+function hardWord() {
+
+}
+hardWord();

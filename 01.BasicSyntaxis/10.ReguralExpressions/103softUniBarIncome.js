@@ -1,0 +1,4 @@
+function softUniBarIncome() {
+
+}
+softUniBarIncome();
