@@ -1,4 +1,0 @@
-function charactersInRange() {
-
-}
-charactersInRange();
