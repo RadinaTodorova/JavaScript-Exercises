@@ -1,5 +1,0 @@
-function oddAndEvenSum() {
-
-}
-
-oddAndEvenSum();

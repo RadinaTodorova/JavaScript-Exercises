@@ -1,5 +1,0 @@
-function palindromeIntegers() {
-
-}
-
-palindromeIntegers();
