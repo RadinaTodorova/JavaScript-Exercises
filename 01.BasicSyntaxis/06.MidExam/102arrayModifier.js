@@ -1,4 +1,0 @@
-function arrayModifier() {
-
-}
-arrayModifier();
