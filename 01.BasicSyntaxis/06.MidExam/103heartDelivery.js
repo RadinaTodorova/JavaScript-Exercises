@@ -1,4 +1,0 @@
-function heartDelivery() {
-
-}
-heartDelivery();

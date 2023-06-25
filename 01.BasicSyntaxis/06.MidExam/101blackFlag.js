@@ -1,4 +1,0 @@
-function blackFlag() {
-
-}
-blackFlag();
