@@ -1,4 +1,0 @@
-function gladiatorInventory() {
-
-}
-gladiatorInventory();

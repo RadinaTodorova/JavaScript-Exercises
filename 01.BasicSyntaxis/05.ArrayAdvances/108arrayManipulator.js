@@ -1,4 +1,0 @@
-function arrayManipulator() {
-
-}
-arrayManipulator();

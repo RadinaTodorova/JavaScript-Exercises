@@ -1,4 +1,0 @@
-function shootForTheWin() {
-
-}
-shootForTheWin();

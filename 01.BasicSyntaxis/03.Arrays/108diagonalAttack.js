@@ -1,4 +1,0 @@
-function diagonalAttack() {
-
-}
-diagonalAttack();

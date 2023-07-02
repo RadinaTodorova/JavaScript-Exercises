@@ -1,4 +1,0 @@
-function classLaptop() {
-
-}
-classLaptop();

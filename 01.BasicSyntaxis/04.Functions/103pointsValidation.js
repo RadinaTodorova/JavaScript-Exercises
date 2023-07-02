@@ -1,4 +1,0 @@
-function pointsValidation() {
-
-}
-pointsValidation();

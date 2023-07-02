@@ -1,4 +1,0 @@
-function wordTracker() {
-
-}
-wordTracker();
