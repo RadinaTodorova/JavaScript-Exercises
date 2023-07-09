@@ -1,4 +1,0 @@
-function countStringOccurrences() {
-
-}
-countStringOccurrences();
