@@ -1,4 +1,0 @@
-function starEnigma() {
-
-}
-starEnigma();

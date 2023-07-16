@@ -1,4 +1,0 @@
-function pascalCaseSplitter() {
-    
-}
-pascalCaseSplitter();

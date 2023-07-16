@@ -1,4 +1,0 @@
-function replaceRepeatingChars() {
-
-}
-replaceRepeatingChars();

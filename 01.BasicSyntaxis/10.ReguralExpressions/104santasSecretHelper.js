@@ -1,4 +1,0 @@
-function santasSecretHelper() {
-
-}
-santasSecretHelper();

@@ -1,4 +1,0 @@
-function winningTicket() {
-
-}
-winningTicket();

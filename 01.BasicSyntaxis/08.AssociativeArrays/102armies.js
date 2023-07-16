@@ -1,4 +1,0 @@
-function armies() {
-
-}
-armies();

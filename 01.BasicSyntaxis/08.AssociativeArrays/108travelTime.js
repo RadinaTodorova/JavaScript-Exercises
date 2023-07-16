@@ -1,4 +1,0 @@
-function travelTime() {
-
-}
-travelTime();
