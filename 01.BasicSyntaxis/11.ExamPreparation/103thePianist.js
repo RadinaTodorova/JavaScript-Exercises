@@ -1,4 +1,0 @@
-function thePianist() {
-
-}
-thePianist();

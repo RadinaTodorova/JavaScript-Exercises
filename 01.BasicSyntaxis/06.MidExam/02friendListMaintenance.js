@@ -1,4 +1,4 @@
-function solve(input) {
+function friendListMaintenance(input) {
   let listOfFriend = input.shift().split(", ");
   let isBlacklisted = [];
   let isLost = [];
@@ -56,9 +56,9 @@ function solve(input) {
   }
  
 }
-solve(["Mike, John, Eddie", "Blacklist Mike", "Error 0", "Report"]);
+friendListMaintenance(["Mike, John, Eddie", "Blacklist Mike", "Error 0", "Report"]);
 console.log("--------------------");
-solve([
+friendListMaintenance([
   "Mike, John, Eddie, William",
   "Error 3",
   "Error 3",
@@ -66,7 +66,7 @@ solve([
   "Report",
 ]);
 console.log("--------------------");
-solve([
+friendListMaintenance([
   "Mike, John, Eddie, William",
 
   "Blacklist Maya",

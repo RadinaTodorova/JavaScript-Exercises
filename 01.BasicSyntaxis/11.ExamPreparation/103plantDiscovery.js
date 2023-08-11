@@ -1,4 +1,0 @@
-function plantDiscovery() {
-
-}
-plantDiscovery();

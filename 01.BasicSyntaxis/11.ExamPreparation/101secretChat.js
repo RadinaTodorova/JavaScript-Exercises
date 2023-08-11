@@ -1,4 +1,0 @@
-function secretChat() {
-
-}
-secretChat();

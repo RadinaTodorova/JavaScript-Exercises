@@ -1,4 +1,4 @@
-function solve(input) {
+function huntingGame(input) {
   let days = Number(input.shift());
   let players = Number(input.shift());
   let energy = Number(input.shift());
@@ -38,7 +38,7 @@ function solve(input) {
     );
   }
 }
-solve([
+huntingGame([
   "10",
 
   "7",
@@ -63,7 +63,7 @@ solve([
   "330",
 ]);
 console.log("---------------------");
-solve([
+huntingGame([
   "12",
 
   "6",

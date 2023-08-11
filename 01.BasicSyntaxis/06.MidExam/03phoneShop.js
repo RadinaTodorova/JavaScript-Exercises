@@ -1,4 +1,4 @@
-function solve(input) {
+function phoneShop(input) {
   let listOfPhones = input.shift().split(", ");
 
   for (let i = 0; i < input.length; i++) {
@@ -46,7 +46,7 @@ function solve(input) {
     }
   }
 }
-// solve([
+// phoneShop([
 //   "SamsungA50, MotorolaG5, IphoneSE",
 
 //   "Add - Iphone10",
@@ -56,7 +56,7 @@ function solve(input) {
 //   "End",
 // ]);
 console.log("----------------");
-// solve([
+// phoneShop([
 //   "HuaweiP20, XiaomiNote",
 
 //   "Remove - Samsung",
@@ -66,7 +66,7 @@ console.log("----------------");
 //   "End",
 // ]);
 console.log("----------------");
-solve([
+phoneShop([
   "SamsungA50, MotorolaG5, HuaweiP10",
 
   "Last - SamsungA50",

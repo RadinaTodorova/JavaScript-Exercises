@@ -1,4 +1,0 @@
-function heroesOfCodeAndLogicVII() {
-
-}
-heroesOfCodeAndLogicVII();
